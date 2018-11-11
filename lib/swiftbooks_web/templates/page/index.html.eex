@@ -1,6 +1,6 @@
 <section class="phx-hero">
-  <h1><%= gettext "Welcome to %{name}!", name: "Phoenix" %></h1>
-  <p>A productive web framework that<br/>does not compromise speed and maintainability.</p>
+  <h1><%= gettext "Welcome to %{name}!", name: "Swift Books" %></h1>
+  <p>Puedes leer la síntesis de un libro por lo que otros resaltan de él. Eso es SwifBooks.</p>
 </section>
 
 <section class="row">
